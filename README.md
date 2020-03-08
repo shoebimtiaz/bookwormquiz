@@ -16,4 +16,4 @@ to play the game.
 Conversely, if a player selects a wrong answer the background turns red color and the
 continue button does not appear. The player is expected to make the right choice upon
 which the background changes to green color and the continue button appears at the 
-bottom and the player may click the continue button to conntinue to play the game.
+bottom and the player may click the continue button to continue to play the game.
